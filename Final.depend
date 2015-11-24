@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1447601310 source:c:\users\yunsu\final\main.cpp
+	"screens.h"
+
+1447698783 c:\users\yunsu\final\screens.h
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+
+1447602584 source:c:\users\yunsu\final\exitgame.cpp
+	"screens.h"
+
+1448205025 source:c:\users\yunsu\final\newgame.cpp
+	"screens.h"
+	"display.h"
+
+1447606646 source:c:\users\yunsu\final\titlescreen.cpp
+	"screens.h"
+
+1447610954 source:c:\users\yunsu\final\arraylist.cpp
+	"screens.h"
+
+1447700073 source:c:\users\yunsu\final\checkinputstr.cpp
+	"check.h"
+
+1447700088 c:\users\yunsu\final\check.h
+	<string>
+
+1448300804 source:c:\users\yunsu\final\displaynameinput.cpp
+	"display.h"
+	"check.h"
+	"player.h"
+	"set.h"
+
+1447916601 c:\users\yunsu\final\display.h
+	<iostream>
+	<windows.h>
+	<string>
+
+1448392569 c:\users\yunsu\final\player.h
+	<iostream>
+	<string>
+
+1448301550 c:\users\yunsu\final\set.h
+	<iostream>
+	<string>
+
+1448301980 source:c:\users\yunsu\final\displayplayerdata.cpp
+	"display.h"
+	"player.h"
+
+1447841717 source:c:\users\yunsu\final\enemy.cpp
+	"enemy.h"
+
+1448302006 c:\users\yunsu\final\enemy.h
+	<iostream>
+	<string>
+
+1447841477 source:c:\users\yunsu\final\player.cpp
+	"player.h"
+
+1448301950 source:c:\users\yunsu\final\setplayerstate.cpp
+	"set.h"
+	"player.h"
+
